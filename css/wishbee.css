@@ -72,3 +72,12 @@
 .teamName {
   font-size: 15px !important;
 }
+.categoryImage {
+  height: 30px;
+  text-align: center;
+}
+
+.slideOne p,
+.slideOne li {
+  font-size: 18px !important;
+}
