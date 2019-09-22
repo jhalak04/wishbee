@@ -30,3 +30,7 @@
 ## View the Presentation please visit below URL
 
 https://wish-bee.000webhostapp.com/
+
+## PDF Version
+[Wishbee](https://github.com/jhalak04/wishbee/blob/master/Wishbee-FinalPDF.pdf)
+
