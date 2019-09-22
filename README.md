@@ -27,9 +27,5 @@
 
    You can change the port by using `npm start -- --port=8001`.
 
-### Folder Structure
-
-- **css/** Core styles without which the project does not function
-- **js/** Like above but for JavaScript
-- **plugin/** Components that have been developed as extensions to reveal.js
-- **lib/** All other third party assets (JavaScript, CSS, fonts)
+##View the Presentation please visit below URL
+https://wish-bee.000webhostapp.com/
