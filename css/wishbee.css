@@ -1,0 +1,70 @@
+.wishbeeLogo {
+  height: 212px;
+  width: 238px;
+}
+.floatLeft {
+  float: left;
+}
+.floatRight {
+  float: right;
+}
+.wishbee section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+.chalmersLogo {
+  height: 70px;
+}
+.thankYou {
+  position: relative;
+  top: 300px;
+}
+.wishbee .containerText h6 {
+  color: #ffcc4d;
+}
+.containerText .firstSec {
+  margin: 7%;
+}
+.containerText .secondSec {
+  border-left: 1px solid #ccc;
+  float: left;
+  padding-left: 2%;
+  margin-left: 2%;
+}
+.containerText p,
+.containerText li {
+  font-size: smaller;
+}
+.containerText .firstSec p,
+.containerText .secondSec p {
+  font-size: smaller;
+  text-align: left;
+}
+
+.containerText .firstSec span {
+  float: left;
+  width: 400px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+.containerText .secondSec span {
+  float: right;
+  width: 400px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+.containerText .firstSec span label,
+.containerText .secondSec span label {
+  color: #378842;
+}
+
+.resourceTable td {
+  border: none !important;
+  font-size: smaller;
+}
+.appImage img {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
